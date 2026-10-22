@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 ¡Hola, soy Emanuel Menager!<br><br>**Software Engineer Junior | Estudiante de Licenciatura en Informática**<br><br>Me dedico a crear soluciones de software ordenadas y escalables. <br>Disfruto del backend con **Java**, **Spring Boot** y **Python**, de armar interfaces con **React** y de integrar **LLMs** con **RAG**, **LangChain** y bases de datos vectoriales como **pgvector**. <br>Creo que el código limpio y la lógica sólida son la base de un buen software.
 
-<!--
-**ManuMenager/ManuMenager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmenager/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelmenager2003@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+# 🚀 Proyectos destacados:
+- 🍕 **[RestoIT](https://github.com/arodriguezfontana/tip)**: plataforma de gestión de pedidos para locales gastronómicos con un asistente conversacional basado en LLMs. `Python` `LangChain` `LLMs`
+- 📈 **[TP Final, Certificación Profesional en Python (ITBA)](https://github.com/ManuMenager/TP-Final-ITBA)**: programa que recolecta datos de la API de Polygon.io, los almacena en una base de datos y los visualiza en gráficos. `Python`
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ManuMenager&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ManuMenager&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManuMenager&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
