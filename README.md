@@ -1,6 +1,7 @@
 # 💫 About Me:
 # 👋 ¡Hola, soy Emanuel Menager!<br><br>**Software Engineer Junior | Estudiante de Licenciatura en Informática**<br><br>Me dedico a crear soluciones de software ordenadas y escalables. <br>Disfruto del backend con **Java**, **Spring Boot** y **Python**, de armar interfaces con **React** y de integrar **LLMs** con **RAG**, **LangChain** y bases de datos vectoriales como **pgvector**. <br>Creo que el código limpio y la lógica sólida son la base de un buen software.
 
+# 👋 Hi, I'm Emanuel Menager!<br><br>**Junior Software Engineer | Computer Science Undergraduate Student**<br><br>I focus on creating well-organized and scalable software solutions. <br>I enjoy working on the backend with **Java**, **Spring Boot**, and **Python**; designing user interfaces with **React**; and integrating large language models (**LLMs**) with **RAG**, **LangChain**, and vector databases like **pgvector**. <br>I believe that clean code and solid logic are the foundation of good software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmenager/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelmenager2003@gmail.com)
